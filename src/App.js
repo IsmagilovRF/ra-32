@@ -57,7 +57,6 @@ function App() {
           handleEdit={handleEdit}
           handleDelete={handleDelete}
         />
-        <p> learn react </p>
       </div>
     </div>
   );
