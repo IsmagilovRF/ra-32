@@ -58,6 +58,7 @@ function App() {
           handleDelete={handleDelete}
         />
       </div>
+      <p>learn react</p>
     </div>
   );
 }
